@@ -1,6 +1,1 @@
-Flask
-numpy
-pandas
-scikit-learn
-gunicorn
-Jinja2
+pip freeze > requirements.txt
